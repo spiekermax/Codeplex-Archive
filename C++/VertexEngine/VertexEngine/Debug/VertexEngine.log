@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\max\documents\visual studio 2015\projects\vertexengine\vertexengine\main.cpp(7): warning C4305: "Argument": Verkürzung von "double" in "float"
+  VertexEngine.vcxproj -> C:\Users\Max\documents\visual studio 2015\Projects\VertexEngine\\Bin32\VertexEngine.exe
+  VertexEngine.vcxproj -> C:\Users\Max\documents\visual studio 2015\Projects\VertexEngine\\Bin32\VertexEngine.pdb (Partial PDB)

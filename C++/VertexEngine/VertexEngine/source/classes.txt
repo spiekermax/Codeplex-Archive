@@ -1,0 +1,10 @@
+- classes
+	|- gl
+		|- HAB = Handle to GL_ARRAY_BUFFER
+		|- HVA = Handle to GL_VERTEX_ARRAY
+	|- fsh = Fragment Shader
+	|- shp = Shader Program
+	|- vao = Vertex Array Object
+	|- vbo = Vertex Buffer Object
+	|- vsh = Vertex Shader
+	|- wnd = Window
